@@ -1,3 +1,3 @@
 #!/bin/bash
-# Eu sou Tryber e estou muito empolgado :)
+# Vou ter muito sucesso na programção!
 PHRASE="Shell Script com variáveis é demais!" 
